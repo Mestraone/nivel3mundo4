@@ -1,0 +1,3 @@
+AndroidManifest - 
+como já diz, "manifest" é uma manifestação do arquivo, ele deixa declarar permissões dos componentes necessarios para deixar que app funcione corretamente. As permisões são amplas como: o receive que inicia automaticamente quando o aparelho é ligado; Record é para captar
+aúdio; Bindnotification permite que seu app consiga ler notificações; Vibrate uma vibração no seu aparelho para alertar ou feedback;
